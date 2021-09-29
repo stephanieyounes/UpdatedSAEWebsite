@@ -3611,7 +3611,7 @@ input, select, textarea {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				background: #fff;
+				background: rgb(224, 89, 31);
 				content: '';
 				display: block;
 				height: 2px;
@@ -3772,6 +3772,7 @@ input, select, textarea {
 
 			#cta .inner header p {
 				color: inherit;
+				
 			}
 
 		#cta .inner .actions {
@@ -3832,7 +3833,7 @@ input, select, textarea {
 		}
 
 		#main > header p {
-			color: inherit;
+			color: red;
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			top: 0;
