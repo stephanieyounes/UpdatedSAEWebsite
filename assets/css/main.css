@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #08296090;
 			color: #c8ece9;
 		}
 
@@ -3833,7 +3833,7 @@ input, select, textarea {
 		}
 
 		#main > header p {
-			color: red;
+			color: inherit;
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			top: 0;
