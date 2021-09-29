@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "command": "explorer",    
+    "windows": {
+        "command": "explorer.exe"
+    },
+    "index.html": [
+        "test.html"
+    ],
+    "group": {
+        "kind": "build",
+        "isDefault": true
+    }
+}
