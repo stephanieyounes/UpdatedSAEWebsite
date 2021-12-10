@@ -1,4 +1,4 @@
-# UTSA's Society of Automotive Engineers Webste 🚙
+# UTSA's Society of Automotive Engineers Website 🚙
 🟣 Link: http://utsafsae.org/
 
 # Description 
